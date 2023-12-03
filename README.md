@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rugvedAnfanger
-- 👀 I’m interested in Machine vision, computer vision and making projects. 
-- 🌱 I’m currently learning Python and machine learning
-- 💞️ I’m looking to collaborate on projects that require work on machine learning
+- 👀 I’m interested in Machine vision, computer vision and ROS2. 
+- 🌱 I’m currently learning Python and CPP.
+- 💞️ I’m looking to collaborate on projects that require work on ROS2
 - 📫 You can reach me on my LinkedIn page.
 
 <!---
